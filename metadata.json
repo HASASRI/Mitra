@@ -1,0 +1,6 @@
+{
+  "name": "Mitra — Your Career Companion",
+  "description": "A modern, all-in-one career guidance and learning platform for CSE/IT students and tech professionals, featuring curated platforms, courses, roadmaps, placement preparation, and portfolio projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
